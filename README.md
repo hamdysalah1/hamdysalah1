@@ -1,1 +1,3 @@
-<img src="https://media2.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+![My github stats](https://github-readme-stats.vercel.app/api?username=hamdysalah1&count_private=true&show_icons=true&hide_rank=true&theme=graywhite)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamdysalah1&layout=compact)](https://github.com/meghsohor/github-readme-stats)
