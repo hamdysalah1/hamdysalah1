@@ -12,14 +12,14 @@ const HAMDY_SALAH = {
         },
         backEnd: {
             js: ["node", "express"],
-            php: ["wordPress"]
+            CMS: ["wordPress"]
         },
         databases: ["mongoDb", "mySql"],
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "BEM"],
+    architecture: ["serverlessArchitecture", "progressiveWebApplications", "singlePageApplications", "BEM"],
     currentProject: "I am Front-End Developer [@yallacompare](https://github.com/compareit4mehub)",
 };
-
+```
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=hamdysalah1&count_private=true&show_icons=true&hide_rank=true&theme=graywhite)
 
