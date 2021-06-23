@@ -16,7 +16,7 @@ const HAMDY_SALAH = {
         },
         databases: ["mongoDb", "mySql"],
     },
-    architecture: ["serverlessArchitecture", "progressiveWebApplications", "singlePageApplications", "BEM"],
+    architecture: ["serverlessArchitecture", "progressiveWebApplications", "singlePageApplications"],
     currentProject: "I am Front-End Developer [@yallacompare](https://github.com/compareit4mehub)",
 };
 ```
